@@ -6,8 +6,7 @@ jsleak is a tool to identify sensitive data in JS files through regex patterns. 
 Directly:
 ```
 {your package manager} install pkg-config libpcre++-dev
-go get github.com/0xTeles/jsleak/v2/jsleak
-```
+go install github.com/0xTeles/jsleak/v2/jsleak@latest```
 Compiled:  [release page](https://github.com/0xTeles/jsleak/releases/tag/jsleak_v2.1)
 
 ### How to use
